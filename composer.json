@@ -2,8 +2,14 @@
     "name": "spondonit/lms-service",
     "description": "'Service Provider for Infix Lms application'",
     "type": "library",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:hatem-elsheref/spondonIt-service.git"
+        }
+    ],
     "require": {
-        "../service": "dev-master"
+        "spondonit/service": "dev-master"
     },
     "license": "MIT",
     "authors": [
