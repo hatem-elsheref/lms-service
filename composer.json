@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "spondonit/service": "dev-master"
+        "spondonit/service": "dev-main"
     },
     "license": "MIT",
     "authors": [
